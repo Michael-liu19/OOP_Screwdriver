@@ -11,7 +11,7 @@ namespace 幸福螺絲起子
     {
         static void Main(string[] args)
         {
-            不是OOP幸福螺絲起子("大十字");
+            不是OOP幸福螺絲起子("小一字");
             OOP幸福螺絲起子("大十字");
         }
 
@@ -25,6 +25,9 @@ namespace 幸福螺絲起子
                     break;
                 case "大一字":
                     工具頭 = "大一字";
+                    break;
+                case "小一字":
+                    工具頭 = "小一字";
                     break;
                 default:
                     throw new SystemException(@"沒有此規格");
