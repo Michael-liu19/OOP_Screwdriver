@@ -15,6 +15,7 @@ namespace 幸福螺絲起子配件
             _工具頭列表 = new List<幸福螺絲起子換頭介面>();
             _工具頭列表.Add(new 大十字());
             _工具頭列表.Add(new 大一字());
+            _工具頭列表.Add(new 小一字());
         }
 
         public static 幸福螺絲起子換頭介面 取出工具頭(string 大小形狀)

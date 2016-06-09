@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="小一字.cs" />
     <Compile Include="大一字.cs" />
     <Compile Include="大十字.cs" />
     <Compile Include="工具頭袋子.cs" />

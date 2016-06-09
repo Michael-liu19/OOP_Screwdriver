@@ -12,7 +12,7 @@ namespace 幸福螺絲起子
         static void Main(string[] args)
         {
             不是OOP幸福螺絲起子("小一字");
-            OOP幸福螺絲起子("大十字");
+            OOP幸福螺絲起子("小一字");
         }
 
         private static void 不是OOP幸福螺絲起子(string 大小形狀)
